@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 nnUNetv2_train 31 2d 5 --unseen_site 0 --client_num 7

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python nnunetv2/run/run_training.py 41 2d 5 --unseen_site 0 --client_num 4

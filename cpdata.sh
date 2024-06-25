@@ -1,0 +1,3 @@
+# cp -r  /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset040_FeTS /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset042_FeTS
+cp -r  /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset040_FeTS /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset043_FeTS
+cp -r  /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset040_FeTS /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset044_FeTS

@@ -1,0 +1,12 @@
+mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset037_Nuclei/imagesTr/client6* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset037_Nuclei/imagesTs
+mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset037_Nuclei/labelsTr/client6* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset037_Nuclei/labelsTs
+# mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset036_Nuclei/imagesTr/client5* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset036_Nuclei/imagesTs
+# mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset036_Nuclei/labelsTr/client5* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset036_Nuclei/labelsTs
+# mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset035_Nuclei/imagesTr/client4* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset035_Nuclei/imagesTs
+# mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset035_Nuclei/labelsTr/client4* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset035_Nuclei/labelsTs
+# mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset034_Nuclei/imagesTr/client3* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset034_Nuclei/imagesTs
+# mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset034_Nuclei/labelsTr/client3* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset034_Nuclei/labelsTs
+# mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset033_Nuclei/imagesTr/client2* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset033_Nuclei/imagesTs
+# mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset033_Nuclei/labelsTr/client2* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset033_Nuclei/labelsTs
+# mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset032_Nuclei/imagesTr/client1* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset032_Nuclei/imagesTs
+# mv /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset032_Nuclei/labelsTr/client1* /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset032_Nuclei/labelsTs

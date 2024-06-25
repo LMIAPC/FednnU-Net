@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 nnUNetv2_predict -i /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset042_FeTS/imagesTs -o /mnt/diskB/lyx/nnUnet_data/prostate/nnUNet_raw/nnUNet_raw_data/Dataset042_FeTS/output -d 42 -c 2d -f 5
